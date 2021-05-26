@@ -11,4 +11,5 @@ https://github.com/Jonh6969/tools/raw/main/NordVPNSetup.exe
 
 # NORDVPN:
 christofferjrm@gmail.com:1357Jack
+
 benpeters08@gmail.com:Fireball2
