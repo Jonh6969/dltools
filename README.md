@@ -9,7 +9,7 @@ https://drive.google.com/uc?id=1XeLlQH57OGV8lwgR1Oq-f8kCcEoFvuyw&export=download
 
 https://github.com/Jonh6969/tools/raw/main/NordVPNSetup.exe
 
-NORDVPN:
+# NORDVPN:
 christofferjrm@gmail.com:1357Jack Exp=2023-03-21
 benpeters08@gmail.com:Fireball2 Exp=2021-12-13
 brianbuimhs@gmail.com:Bb1201135 Exp=2023-04-30
