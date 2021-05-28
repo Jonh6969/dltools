@@ -11,6 +11,8 @@ https://drive.google.com/uc?id=1XeLlQH57OGV8lwgR1Oq-f8kCcEoFvuyw&export=download
 
 https://github.com/Jonh6969/tools/raw/main/NordVPNSetup.exe
 
+https://seed4.me/app/getLatest/windows
+
 # NORDVPN:
 christofferjrm@gmail.com:1357Jack
 
