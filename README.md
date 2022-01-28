@@ -11,7 +11,4 @@ https://github.com/Jonh6969/tools/raw/main/NordVPNSetup.exe
 
 https://seed4.me/app/getLatest/windows
 
-# NORDVPN:
-christofferjrm@gmail.com:1357Jack
-
-benpeters08@gmail.com:Fireball2
+https://telegramfiles.herokuapp.com/download/9677918345/4K.Video.Downloader.v4.19.3.4700.exe
